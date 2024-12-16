@@ -375,6 +375,10 @@ const controlAddRecipe = async function (newRecipe) {
   }
 };
 
+const newFeature = function () {
+  console.log('Welcome to the application!');
+};
+
 const init = function () {
   bookmarksView.addHandlerRender(controlBookmarks);
   recipeView.addHandlerRender(controlRecipes);
@@ -385,7 +389,7 @@ const init = function () {
   addRecipeView.addHandlerUpload(controlAddRecipe);
   // controlServings(); // won't work due to async nature of state.recipe
 
-  console.log('Welcome');
+  newFeature();
 };
 init();
 
