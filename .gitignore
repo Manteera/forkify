@@ -1,0 +1,5 @@
+# This file contains folders and files that we want Git to ignore. Or folders and files that we do not want to get into our repository
+node_modules
+dist 
+.parcel-cache 
+.DS_Store 
