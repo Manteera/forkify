@@ -446,3 +446,8 @@ init();
 // UPLOADING A NEW/USER'S OWN RECIPE - PART 2
 
 // UPLOADING A NEW/USER'S OWN RECIPE - PART 3
+
+////////////////////////////////////////////////////////
+// SETTING UP GIT AND DEPLOYMENT
+
+// Search for "github git cheatsheet." Click on the Git cheatsheet(Git Education) page and explore the commands.
